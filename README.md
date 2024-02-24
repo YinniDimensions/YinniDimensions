@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on making this interactable.
+- 🌱 I’m currently learning webdesign.
 
 <!--
 **YinniDimensions/YinniDimensions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
