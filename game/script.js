@@ -20,8 +20,8 @@ function refresh() {
 window.saves=0;
 
 function game_start() {
-    window.location.href = "game.html";
+    window.location.href = "content.html";
 }
-function game_menu() {
-    window.location.herf = "game_menu.html";
+function game_index() {
+    window.location.herf = "index.html";
 }
