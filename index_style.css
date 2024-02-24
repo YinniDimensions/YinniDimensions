@@ -5,7 +5,20 @@ html {
 .center {
   text-align: center;
 }
+.right {
+  position:absolute; right:0;
+}
+.fixed{
+  position: fixed;
+}
 .banner {
-  border-style: solid;
   border-color: black;
+  background-color: lightblue;
+  height: 60px;
+}
+.overflow {
+  overflow-y: auto;
+}
+.white {
+  color: white;
 }
