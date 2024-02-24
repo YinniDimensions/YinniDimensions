@@ -19,6 +19,9 @@ function refresh() {
 
 window.saves=0;
 
-function menu_start() {
+function game_start() {
     window.location.href = "game.html";
+}
+function game_menu() {
+    window.location.herf = "game_menu.html";
 }
