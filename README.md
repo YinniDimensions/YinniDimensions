@@ -1,7 +1,7 @@
 Hi there 👋
 - 🔭 I’m currently working on making this interactable.
 - 🌱 I’m currently learning webdesign.
-- 🤔 I’m looking for help with making the code smooth and read to read.
+- 🤔 I’m looking for help with making the code smooth and easy to read.
 - 📫 How to reach me: Yinni.Dimensions@gmail.com
 <!--
 **YinniDimensions/YinniDimensions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
