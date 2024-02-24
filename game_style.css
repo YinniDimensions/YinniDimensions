@@ -11,6 +11,10 @@
     border-style: solid;
     border-color: white;
 }
+.bar {
+    border-radius: 1vw;
+    border-style: dotted;
+}
 
 
 
